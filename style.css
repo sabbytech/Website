@@ -1,0 +1,83 @@
+  h1 {
+    font-size: 30px;
+    text-align: center;
+    padding: 20px;
+  }
+
+
+  img {
+    border-radius: 50%;
+    width: 200px;
+  }
+  
+  body {
+    text-align: center;
+    background: linear-gradient( lightblue 0%,Blue 100%);
+    background-repeat: no-repeat;
+  height:1000000000px;
+  }
+  
+  .menu{
+    list-style: none;
+    font-family:comic;
+  cursor: pointer;
+    color:black;
+    background-color:yellow;
+  }
+
+  .link{
+    float:left;
+      color:red;
+    font-family: fantasy;
+    padding-top: 5px;
+    padding-bottom: 5px;
+      padding-right: 5px;
+      padding-left: 5px;
+    font-weight:bold;
+    font-size: 20px;
+  }
+
+  .link:hover{
+    background-color:yellow;
+  
+  }
+
+  .hi{
+    font-size:20px;
+    color:yellow;
+      font-weight: bold;
+  }
+  
+  html{
+    scroll-behavior: smooth;
+  }
+
+  a{
+      text-decoration: none;
+      color: black;
+      text-shadow: 2px 2px red;
+  }
+
+  #Articles a{
+      text-shadow: none !important;
+      text-decoration: underline;
+      color: yellow;
+      font-size: 20px;
+  }
+
+  #Articles a:hover{
+      color: red;
+    }
+
+  #Contact{
+      background: yellow;
+    }
+
+  .contact_1 a{
+      font-size:20px;
+    }
+    
+  .contact_ h3{
+      display: inline;
+    }
+
